@@ -25,14 +25,14 @@ small_font = pygame.font.Font(None, 36)
 
 # Load images for different base-running scenarios
 base_images = {
-    'empty': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_0_0_0.png'),
-    '1': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_1_0_0.png'),
-    '2': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_0_1_0.png'),
-    '3': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_0_0_1.png'),
-    '12': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_1_1_0.png'),
-    '13': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_1_0_1.png'),
-    '23': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_0_1_1.png'),
-    '123': pygame.image.load('C:\\Users\\alexj\\Desktop\\  \\BISMO SPORTS\\STOPWATCH BASEBALL\\IMAGES\\base_1_1_1.png')
+    'empty': pygame.image.load('your_file_path_here\\IMAGES\\base_0_0_0.png'),
+    '1': pygame.image.load('your_file_path_here\\IMAGES\\base_1_0_0.png'),
+    '2': pygame.image.load('your_file_path_here\\IMAGES\\base_0_1_0.png'),
+    '3': pygame.image.load('your_file_path_here\\IMAGES\\base_0_0_1.png'),
+    '12': pygame.image.load('your_file_path_here\\IMAGES\\base_1_1_0.png'),
+    '13': pygame.image.load('your_file_path_here\\IMAGES\\base_1_0_1.png'),
+    '23': pygame.image.load('your_file_path_here\\IMAGES\\base_0_1_1.png'),
+    '123': pygame.image.load('your_file_path_here\\IMAGES\\base_1_1_1.png')
 }
 
 # Scale images to appropriate size
